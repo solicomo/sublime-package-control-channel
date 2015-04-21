@@ -2,10 +2,9 @@
 	"schema_version": "3.0.0",
 	"packages": [
 		{
-			"name": "Go",
+			"name": "GoSublime",
 			"details": "https://github.com/solicomo/GoSublime",
 			"labels": ["Golang", "IDE"],
-			"previous_names": ["GoSublime"],
 			"releases": [
 				{
 					"sublime_text": "*",
